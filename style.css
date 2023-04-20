@@ -2,10 +2,46 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Roboto, sans-serif;
 }
 
 .container {
-  background-color: gray;
+  background-color: rgba(227, 231, 227, 0.94);
+  margin: 20px;
+}
+
+h1 {
+  padding: 40px 0;
+}
+
+#img-div {
+  background-color: white;
+  margin: 40px;
+}
+
+#img-caption {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+h3 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+ul {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.quote {
+  font-style: italic;
+  text-align: center;
+  padding: 20px 0;
 }
 
 .intro {
