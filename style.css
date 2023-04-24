@@ -2,61 +2,75 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
 }
+
 #main {
   background-color: #efedee;
   margin: 20px 10px;
   padding: 10px;
 }
+
 #intro {
   text-align: center;
   margin: 10px;
   padding: 10px;
 }
+
 #intro h1 {
   margin-bottom: 15px;
   font-size: 40px;
 }
+
 #intro p {
   margin-top: 20px;
   font-size: 15px;
 }
+
 #img-div {
   background-color: white;
 }
+
 img {
   display: block;
 }
+
 #image {
   max-width: 100%;
   width: 80%;
   height: auto;
   margin: 0 auto;
 }
+
 #img-caption {
   text-align: center;
   padding: 10px 0;
 }
+
 #tribute-info h3 {
   text-align: center;
   padding: 50px 0;
 }
+
 ul,
 .quote {
   width: 40%;
   margin: 0 auto;
 }
+
 ul li {
   padding: 10px 0;
 }
+
 span {
   font-weight: bold;
 }
+
 .quote {
   font-style: italic;
   padding: 25px 0;
 }
+
 .conclusion {
   font-weight: bold;
   font-size: 18px;
